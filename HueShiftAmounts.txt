@@ -1,0 +1,7 @@
+HUE SHIFTS (USE IN GIMP!!)
+
+blueberry +0
+grape +53
+strawberry +95
+tangerine +162
+lime -140
