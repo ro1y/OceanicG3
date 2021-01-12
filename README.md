@@ -1,2 +1,2 @@
 ## OceanicG3
-![Image](./Wallpapers/Blueberry_Swoosh)
+![Image](./Wallpapers/Blueberry_Swoosh.png)
