@@ -1,3 +1,1 @@
-## Welcome to GitHub Pages
-
-{{ site.pages }}
+## OceanicG3
